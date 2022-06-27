@@ -1,0 +1,12 @@
+Các gói cần cài:
+
+docker chạy mongodb, hoặc nodejs
+
+mongodb
+nginx
+nodejs v10
+git
+
+node: package global:
+
+- pm2
